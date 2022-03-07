@@ -130,3 +130,6 @@ dmypy.json
 
 # Instructions folder
 Instructions/
+
+# PyCharm ideas folder
+.idea/
