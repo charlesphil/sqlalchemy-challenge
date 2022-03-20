@@ -1,4 +1,4 @@
-# SQLAlchemy-Challenge: Charles Phil Week 10 Homework
+# SQLAlchemy-Challenge
 
 ## Climate analysis and exploration
 
